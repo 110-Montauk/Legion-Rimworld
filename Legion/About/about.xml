@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>86: Legion</name>
+	<supportedVersions>
+		
+		<li>1.4</li>
+	</supportedVersions>
+
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+		<li>Ludeon.RimWorld.Ideology</li>
+        <li>Ludeon.RimWorld.Biotech</li>
+		
+	</loadAfter>
+	<author>110Montauk</author>
+
+	<packageId>110montauk.86legion</packageId>
+
+	<description>
+
+    Adds a new faction, The Legion, based from the Light Novel and anime series "86". The Legion is an army of machine made with the purpose of military conquest, but after the fall of the empire that created them, they now roam the world to fulfill their final mission; "destroy the enemy".
+
+    For reasons unknown, The Legion found their way to the rimworld. But it matters not, as the Legion does not discriminate. Even in this new, unfamiliar world, they will bring the will of Giad Empire to reality.
+
+	</description>
+</ModMetaData>
