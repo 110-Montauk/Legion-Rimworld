@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <BodyDef>
+    <defName>Legion86_Ameise</defName>
+    <label>ameise</label>
+    <corePart>
+        <def>Legion86_LegionBody</def>
+        <height>Middle</height>
+        <depth>Outside</depth>
+        <parts>
+        <li>
+            <def>Legion86_LegionHead</def>
+            <coverage>0.60</coverage>
+            <parts>
+                <li>
+                    <def>Legion86_NeuralAssimilator</def>
+                    <coverage>0.2</coverage>
+                    <depth>Inside</depth>
+                </li>
+                <li>
+                    <def>Legion86_SightSensor</def>
+                    <customLabel>left sight sensor</customLabel>
+                    <coverage>0.15</coverage>
+                </li>
+                <li>
+                    <def>Legion86_SightSensor</def>
+                    <customLabel>right sight sensor</customLabel>
+                    <coverage>0.15</coverage>
+                </li>
+                <li>
+                    <def>Legion86_AudioSensor</def>
+                    <customLabel>left audio sensor</customLabel>
+                    <coverage>0.10</coverage>
+                </li>
+                <li>
+                    <def>Legion86_AudioSensor</def>
+                    <customLabel>right audio sensor</customLabel>
+                    <coverage>0.10</coverage>
+                </li>
+            </parts>
+        </li>
+        <li>
+          <def>Legion86_LegionLegs</def>
+          <customLabel>middle left leg</customLabel>
+          <coverage>0.04</coverage>
+          <height>Bottom</height>
+        </li>
+        <li>
+          <def>Legion86_LegionLegs</def>
+          <customLabel>middle right leg</customLabel>
+          <coverage>0.04</coverage>
+          <height>Bottom</height>
+        </li>
+        <li>
+          <def>Legion86_LegionLegs</def>
+          <customLabel>rear left leg</customLabel>
+          <coverage>0.04</coverage>
+          <height>Bottom</height>
+        </li>
+        <li>
+          <def>Legion86_LegionLegs</def>
+          <customLabel>rear right leg</customLabel>
+          <coverage>0.04</coverage>
+          <height>Bottom</height>
+        </li>
+        <li>
+          <def>Legion86_LegionFrontLegs</def>
+          <customLabel>front left leg</customLabel>
+          <coverage>0.04</coverage>
+          <height>Bottom</height>
+          <groups>
+            <li>FrontLeftLeg</li>
+          </groups>
+        </li>
+        <li>
+          <def>Legion86_LegionFrontLegs</def>
+          <customLabel>front right leg</customLabel>
+          <coverage>0.04</coverage>
+          <height>Bottom</height>
+          <groups>
+            <li>FrontRightLeg</li>
+          </groups>
+        </li>
+        <li>
+          <def>Legion86_EnergyPack</def>
+          <coverage>0.03</coverage>
+          <depth>Inside</depth>
+        </li>
+        <li>
+          <def>Legion86_EnergyStabilizer</def>
+          <coverage>0.04</coverage>
+          <depth>Inside</depth>
+        </li>
+        <li>
+          <def>Legion86_EnergyStabilizer</def>
+          <coverage>0.04</coverage>
+          <depth>Inside</depth>
+        </li>
+      </parts>
+    </corePart>
+  </BodyDef>
+
+</Defs>
