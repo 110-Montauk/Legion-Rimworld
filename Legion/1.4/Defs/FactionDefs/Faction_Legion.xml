@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 <FactionDef ParentName="FactionBase">
-    <defName>Legion</defName>
+    <defName>Legion86_FactionLegion</defName>
     <label>Legion Network</label>
     <description>An army of autonomous polypedal weapon made by the Giad Empire before declaring war on their neighbors. After an armed revolution killed the royal rulers and replaced the governing body, this crashing wave of metallic wave stayed loyal to the wish of their creators. With exoskeleton made from liquid nanomachines, high caliber weaponries, and the ability to assimilate the dead into their ranks, The Legion had brought humanity of their homeworld to the brink of annihillation. Nobody knows how they get to this planet, but it seems that they also intended to realize their mission here.</description>
     <pawnSingular>Legion</pawnSingular>
