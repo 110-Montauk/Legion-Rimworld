@@ -35,7 +35,7 @@
   </ThingDef>
 
   <PawnKindDef Name="BaseLegionKind" Abstract="True">
-    <defaultFactionType>Legion</defaultFactionType>
+    <defaultFactionType>Legion86_FactionLegion</defaultFactionType>
     <aiAvoidCover>false</aiAvoidCover>
     <destroyGearOnDrop>false</destroyGearOnDrop>
     <canStrip>false</canStrip>
