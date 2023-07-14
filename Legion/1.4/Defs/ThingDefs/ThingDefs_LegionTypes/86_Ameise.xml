@@ -48,16 +48,16 @@
       <lifeStageAges Inherit="False">
         <li>
           <def>MechanoidFullyFormed</def>
-          <minAge>0</minAge>
+          <minAge>10</minAge>
           <soundWounded>Pawn_Mech_Pikeman_Wounded</soundWounded>
           <soundDeath>Pawn_Mech_Pikeman_Death</soundDeath>
           <soundCall>Pawn_Mech_Pikeman_Call</soundCall>
         </li>
       </lifeStageAges>
     </race>
-    <butcherProducts>
+    <butcherCorpseMechanoid>
       <LiquidMicromachine>30</LiquidMicromachine>
-    </butcherProducts>
+    <butcherCorpseMechanoid>
   </ThingDef>
 
   <PawnKindDef ParentName="BaseLegionKind">
