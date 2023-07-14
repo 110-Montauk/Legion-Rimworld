@@ -31,12 +31,17 @@
                 <li>
                     <def>Legion86_AudioSensor</def>
                     <customLabel>left audio sensor</customLabel>
-                    <coverage>0.10</coverage>
+                    <coverage>0.05</coverage>
                 </li>
                 <li>
                     <def>Legion86_AudioSensor</def>
                     <customLabel>right audio sensor</customLabel>
-                    <coverage>0.10</coverage>
+                    <coverage>0.05</coverage>
+                </li>
+                <li>
+                    <def>Legion86_WeaponMountr</def>
+                    <customLabel>weapon mount</customLabel>
+                    <coverage>0.1</coverage>
                 </li>
             </parts>
         </li>
