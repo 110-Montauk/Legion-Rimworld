@@ -47,7 +47,6 @@
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
     <solid>true</solid>
-    <alive>false</alive>
     <bleedRate>0</bleedRate>
     <tags>
       <li>BloodFiltrationSource</li>
@@ -62,7 +61,6 @@
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
     <solid>true</solid>
-    <alive>false</alive>
     <socketed>true</socketed>
     <bleedRate>0</bleedRate>
     <tags>
@@ -78,7 +76,6 @@
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
     <solid>true</solid>
-    <alive>false</alive>
     <bleedRate>0</bleedRate>
     <tags>
       <li>HearingSource</li>
@@ -93,7 +90,6 @@
     <skinCovered>false</skinCovered>
     <solid>true</solid>
     <bleedRate>0</bleedRate>
-    <alive>false</alive>
   </BodyPartDef>
 
   <BodyPartDef>
@@ -103,7 +99,6 @@
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
     <solid>true</solid>
-    <alive>false</alive>
     <bleedRate>0</bleedRate>
     <tags>
       <li>MovingLimbCore</li>
@@ -111,16 +106,14 @@
   </BodyPartDef>
 
   <BodyPartDef>
-    <defName>Legion86_LegionFrontLegs</defName>
-    <label>leg</label>
-    <hitPoints>30</hitPoints>
+    <defName>Legion86_WeaponMount</defName>
+    <label>weapon mount</label>
+    <hitPoints>15</hitPoints>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
     <solid>true</solid>
-    <alive>false</alive>
     <bleedRate>0</bleedRate>
     <tags>
-      <li>MovingLimbCore</li>
       <li>ManipulationLimbCore</li>
     </tags>
   </BodyPartDef>
