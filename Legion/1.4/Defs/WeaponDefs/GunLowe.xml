@@ -2,6 +2,20 @@
 <Defs>
   
 <!--Lowe 120mm-->
+
+    <ThingDef ParentName="BaseBullet">
+    <defName>Legion86Bullet_Lowe</defName>
+    <label>120 mm bullet</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>15</damageAmountBase>
+      <speed>85</speed>
+    </projectile>
+  </ThingDef>
   
    <ThingDef ParentName="BaseLegionGun">
     <defName>Legion86_GunLowe</defName>
@@ -26,7 +40,7 @@
       <li>
         <verbClass>Verb_Shoot</verbClass>
         <hasStandardCommand>true</hasStandardCommand>
-        <defaultProjectile>Bullet_SniperRifle</defaultProjectile>
+        <defaultProjectile>Legion86Bullet_Lowe</defaultProjectile>
         <warmupTime>1.0</warmupTime>
         <range>45</range>
         <burstShotCount>1</burstShotCount>
