@@ -7,7 +7,7 @@
     <defName>Legion86Bullet_Lowe</defName>
     <label>120 mm bullet</label>
     <graphicData>
-      <texPath>Things/Projectile/Bullet_Small</texPath>
+      <texPath>Things/Projectile/Bullet_Large</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <projectile>
