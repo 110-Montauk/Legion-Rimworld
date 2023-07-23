@@ -56,14 +56,14 @@
       </lifeStageAges>
     </race>
     <butcherCorpseMechanoid>
-      <LiquidMicromachine>30</LiquidMicromachine>
+      <Legion86_LiquidMicromachine>30</Legion86_LiquidMicromachine>
     <butcherCorpseMechanoid>
   </ThingDef>
 
   <PawnKindDef ParentName="BaseLegionKind">
     <defName>Legion86_Ameise</defName>
-    <label>ameise</label>
-    <labelPlural>ameise</labelPlural>
+    <label>Ameise</label>
+    <labelPlural>Ameise</labelPlural>
     <race>Legion86_Ameise</race>
     <combatPower>110</combatPower>
     <lifeStages>
