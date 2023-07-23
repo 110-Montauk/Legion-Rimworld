@@ -5,7 +5,7 @@
 
 
   <ThingDef ParentName="ResourceBase">
-    <defName>LiquidMicromachine</defName>
+    <defName>Legion86_LiquidMicromachine</defName>
     <label>Liquid Micromachine</label>
     <description>A sheet of hardened liquid micromachine salvaged from the exoskeleton frame of a dead Legion unit. It can be used as substitute of metal for most things, and is exceptionally sturdy from attacks. As liquid micromachines weren't made for direct human usage, though, protective gears made from it will not insulate well.</description>
     <graphicData>
